@@ -1,0 +1,2 @@
+serviceClass: sensor4people.pages.index.client.service.Buscar
+path: 62EF8E22384843E86F91EA055A7327D5.gwt.rpc

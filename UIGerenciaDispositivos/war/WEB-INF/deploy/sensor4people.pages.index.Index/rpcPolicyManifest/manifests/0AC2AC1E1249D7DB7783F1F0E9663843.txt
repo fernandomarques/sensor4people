@@ -1,0 +1,2 @@
+serviceClass: sensor4people.pages.index.client.service.Cadastrar
+path: 4C5A6AA723704DC16453B88272C62AA7.gwt.rpc
